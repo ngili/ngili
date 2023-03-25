@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am data science and machine learning student currently at Moringa School and a mechanical engineering graduate from the University of Nairobi.<br>🌱 I’m currently learning about cloud computing, neural networks and NLP.<br>⚡ Fun fact : God of war is my favourite video game. I'm obsessed.<br>📫 Reach me on whitneyndivi@gmail.com
+I am a data science and machine learning student currently at Moringa School and a mechanical engineering graduate from the University of Nairobi.<br>🌱 I’m currently learning about cloud computing, neural networks and NLP.<br>⚡ Fun fact : God of war is my favourite video game. I'm obsessed.<br>📫 Reach me on whitneyndivi@gmail.com
 
 
 ## 🌐 Socials:
